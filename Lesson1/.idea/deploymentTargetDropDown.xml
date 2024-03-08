@@ -5,7 +5,16 @@
       <entry key="app">
         <State />
       </entry>
-      <entry key="layouttype">
+      <entry key="buttonclicker">
+        <State />
+      </entry>
+      <entry key="control_lesson1">
+        <State />
+      </entry>
+      <entry key="linearlayout">
+        <State />
+      </entry>
+      <entry key="tablelayout">
         <State />
       </entry>
     </value>
