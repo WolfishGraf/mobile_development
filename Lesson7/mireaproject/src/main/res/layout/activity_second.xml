@@ -131,4 +131,18 @@
         android:text="Ok"
         android:gravity="center"/>
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="135dp" />
+
+    <Button
+        android:id="@+id/buttonback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="Назад" />
+
 </LinearLayout>
